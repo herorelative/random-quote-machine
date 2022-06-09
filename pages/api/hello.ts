@@ -200,7 +200,7 @@ export default function handler(
     {
       quote:
         "Certain things catch your eye, but pursue only those that capture the heart.",
-      author: " Ancient Indian Proverb",
+      author: "Ancient Indian Proverb",
     },
     {
       quote: "Believe you can and you’re halfway there.",
